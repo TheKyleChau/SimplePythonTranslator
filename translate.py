@@ -1,5 +1,10 @@
 import translators as ts
 
+#v0.1
+#I've been testing this out for a while but it seems okay for now
+#Uses the translators library with Google Translation API
+#Should be okay for regular usage
+
 print("Welcome to the CLI translator")
 i = 0
 while i == 0:
