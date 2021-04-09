@@ -1,5 +1,6 @@
 import translators as ts
 
+#CLI-Version
 #v0.1
 #I've been testing this out for a while but it seems okay for now
 #Uses the translators library with Google Translation API
