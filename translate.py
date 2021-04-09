@@ -6,6 +6,7 @@ import translators as ts
 #Uses the translators library with Google Translation API
 #Should be okay for regular usage
 #Adding usage for multiple translation APIs
+#Should be adding support for translation language checker to make sure it supports the language
 
 print("Welcome to the CLI translator")
 i = 0
